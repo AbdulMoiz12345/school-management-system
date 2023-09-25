@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ADDUL MOIZ\Documents\Project7\Project7\Source.cpp(173,13): warning C4101: 'c': unreferenced local variable
+C:\Users\ADDUL MOIZ\Documents\Project7\Project7\Source.cpp(184,13): warning C4101: 'a': unreferenced local variable
+C:\Users\ADDUL MOIZ\Documents\Project7\Project7\Source.cpp(1654): warning C4715: 'administrator::login': not all control paths return a value
+  Project7.vcxproj -> C:\Users\ADDUL MOIZ\Documents\Project7\x64\Debug\Project7.exe
